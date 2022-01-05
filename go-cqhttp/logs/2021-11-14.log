@@ -1,0 +1,46 @@
+[2021-11-14 12:18:08] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-11-14 12:18:49] [WARNING]: 监听反向WS API时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2021-11-14 12:18:54] [WARNING]: 向WS服务器 127.0.0.1:8081 推送Event时出现错误: write tcp 127.0.0.1:64671->127.0.0.1:8081: use of closed network connection 
+[2021-11-14 12:27:12] [WARNING]: 获取信息时出现错误: leveldb: not found id: 1610919898 
+[2021-11-14 15:48:38] [ERROR]: Protocol -> parse incoming packet error: invalid payload 
+[2021-11-14 15:48:38] [ERROR]: Protocol -> unexpected disconnect: unexpected EOF 
+[2021-11-14 15:48:39] [ERROR]: Protocol -> parse incoming packet error: invalid payload 
+[2021-11-14 15:48:39] [ERROR]: Protocol -> unexpected disconnect: unexpected EOF 
+[2021-11-14 15:48:40] [ERROR]: Protocol -> parse incoming packet error: invalid payload 
+[2021-11-14 15:48:40] [ERROR]: Protocol -> unexpected disconnect: unexpected EOF 
+[2021-11-14 15:49:08] [ERROR]: Protocol -> register client failed: Packet timed out 
+[2021-11-14 15:49:08] [WARNING]: Bot已离线: register error 
+[2021-11-14 15:49:08] [ERROR]: Protocol -> unexpected disconnect: read tcp 172.19.79.84:54451->180.163.212.180:14000: use of closed network connection 
+[2021-11-14 15:49:09] [ERROR]: Protocol -> register client failed: Packet timed out 
+[2021-11-14 15:49:09] [ERROR]: Protocol -> unexpected disconnect: read tcp 172.19.79.84:54750->120.232.27.24:443: use of closed network connection 
+[2021-11-14 15:49:11] [ERROR]: Protocol -> register client failed: Packet timed out 
+[2021-11-14 15:49:11] [ERROR]: Protocol -> unexpected disconnect: read tcp 172.19.79.84:54758->157.148.54.20:80: use of closed network connection 
+[2021-11-14 19:30:06] [ERROR]: Protocol -> unexpected disconnect: read tcp 172.19.79.84:54767->220.194.118.236:14000: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-14 19:30:07] [ERROR]: Protocol -> unexpected disconnect: unexpected EOF 
+[2021-11-14 19:30:07] [ERROR]: Protocol -> parse incoming packet error: invalid payload 
+[2021-11-14 19:30:08] [ERROR]: Protocol -> parse incoming packet error: invalid payload 
+[2021-11-14 19:30:08] [ERROR]: Protocol -> unexpected disconnect: unexpected EOF 
+[2021-11-14 19:30:09] [ERROR]: Protocol -> parse incoming packet error: invalid payload 
+[2021-11-14 19:30:09] [ERROR]: Protocol -> unexpected disconnect: unexpected EOF 
+[2021-11-14 19:30:30] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2021-11-14 19:30:36] [ERROR]: Protocol -> register client failed: Packet timed out 
+[2021-11-14 19:30:36] [WARNING]: Bot已离线: register error 
+[2021-11-14 19:30:36] [ERROR]: Protocol -> unexpected disconnect: read tcp 172.19.79.84:63846->157.148.36.89:80: use of closed network connection 
+[2021-11-14 19:30:37] [ERROR]: Protocol -> register client failed: Packet timed out 
+[2021-11-14 19:30:37] [ERROR]: Protocol -> unexpected disconnect: read tcp 172.19.79.84:63967->220.194.118.236:14000: use of closed network connection 
+[2021-11-14 19:30:38] [ERROR]: Protocol -> register client failed: Packet timed out 
+[2021-11-14 19:30:38] [ERROR]: Protocol -> unexpected disconnect: read tcp 172.19.79.84:63976->36.155.229.173:80: use of closed network connection 
+[2021-11-14 20:07:00] [ERROR]: Protocol -> unexpected disconnect: read tcp 172.19.79.84:63977->183.47.98.77:8080: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2021-11-14 20:22:03] [ERROR]: Protocol -> unexpected disconnect: read tcp 172.19.79.84:62981->221.238.41.89:80: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2021-11-14 20:42:06] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2021-11-14 20:43:04] [WARNING]: 获取信息时出现错误: leveldb: not found id: -162119437 
+[2021-11-14 21:01:15] [ERROR]: Protocol -> unexpected disconnect: read tcp 172.19.79.84:60177->120.232.27.24:443: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-14 21:01:24] [WARNING]: 警告: 群 771253373 消息图片上传失败: Packet timed out 
+[2021-11-14 21:21:24] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2021-11-14 21:41:27] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2021-11-14 22:12:54] [ERROR]: Protocol -> unexpected disconnect: read tcp 172.19.79.84:52582->36.155.209.114:80: wsarecv: An existing connection was forcibly closed by the remote host. 
+[2021-11-14 22:32:57] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2021-11-14 22:58:40] [ERROR]: Protocol -> unexpected disconnect: EOF 
+[2021-11-14 22:58:58] [WARNING]: 获取信息时出现错误: leveldb: not found id: -822210693 
+[2021-11-14 23:07:19] [WARNING]: 获取信息时出现错误: leveldb: not found id: -822210693 
+[2021-11-14 23:22:19] [ERROR]: Protocol -> unexpected disconnect: read tcp 172.19.79.84:56685->101.91.37.242:14000: wsarecv: An existing connection was forcibly closed by the remote host. 

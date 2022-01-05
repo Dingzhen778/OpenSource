@@ -1,0 +1,110 @@
+[2021-11-10 17:56:30] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-11-10 18:04:41] [ERROR]: Protocol -> panic on decoder OnlinePush.ReqPush : EOF
+goroutine 594 [running]:
+runtime/debug.Stack()
+	runtime/debug/stack.go:24 +0x65
+github.com/Mrs4s/MiraiGo/client.(*QQClient).netLoop.func1.1()
+	github.com/Mrs4s/MiraiGo@v0.0.0-20210916113136-0238b2382b82/client/network.go:223 +0x5d
+panic({0x8c6780, 0xc000064050})
+	runtime/panic.go:1038 +0x215
+github.com/Mrs4s/MiraiGo/binary/jce.(*JceReader).readBytes(...)
+	github.com/Mrs4s/MiraiGo@v0.0.0-20210916113136-0238b2382b82/binary/jce/reader.go:96
+github.com/Mrs4s/MiraiGo/binary/jce.(*JceReader).ReadBytes(0xc000567d58, 0xc000318900)
+	github.com/Mrs4s/MiraiGo@v0.0.0-20210916113136-0238b2382b82/binary/jce/reader.go:297 +0x18e
+github.com/Mrs4s/MiraiGo/client.decodeOnlinePushReqPacket(0xc000398000, 0xc0002bc580, {0xc000568180, 0x168, 0x168})
+	github.com/Mrs4s/MiraiGo@v0.0.0-20210916113136-0238b2382b82/client/online_push.go:116 +0x9ae
+github.com/Mrs4s/MiraiGo/client.(*QQClient).netLoop.func1(0xc00050e550)
+	github.com/Mrs4s/MiraiGo@v0.0.0-20210916113136-0238b2382b82/client/network.go:233 +0x1cb
+created by github.com/Mrs4s/MiraiGo/client.(*QQClient).netLoop
+	github.com/Mrs4s/MiraiGo@v0.0.0-20210916113136-0238b2382b82/client/network.go:220 +0x525
+ 
+[2021-11-10 18:04:42] [ERROR]: Protocol -> panic on decoder OnlinePush.ReqPush : EOF
+goroutine 101 [running]:
+runtime/debug.Stack()
+	runtime/debug/stack.go:24 +0x65
+github.com/Mrs4s/MiraiGo/client.(*QQClient).netLoop.func1.1()
+	github.com/Mrs4s/MiraiGo@v0.0.0-20210916113136-0238b2382b82/client/network.go:223 +0x5d
+panic({0x8c6780, 0xc000064050})
+	runtime/panic.go:1038 +0x215
+github.com/Mrs4s/MiraiGo/binary/jce.(*JceReader).readBytes(...)
+	github.com/Mrs4s/MiraiGo@v0.0.0-20210916113136-0238b2382b82/binary/jce/reader.go:96
+github.com/Mrs4s/MiraiGo/binary/jce.(*JceReader).ReadBytes(0xc0006d9d58, 0xc000494190)
+	github.com/Mrs4s/MiraiGo@v0.0.0-20210916113136-0238b2382b82/binary/jce/reader.go:297 +0x18e
+github.com/Mrs4s/MiraiGo/client.decodeOnlinePushReqPacket(0xc000398000, 0xc00038a080, {0xc0006ca000, 0x16f, 0x16f})
+	github.com/Mrs4s/MiraiGo@v0.0.0-20210916113136-0238b2382b82/client/online_push.go:116 +0x9ae
+github.com/Mrs4s/MiraiGo/client.(*QQClient).netLoop.func1(0xc000488050)
+	github.com/Mrs4s/MiraiGo@v0.0.0-20210916113136-0238b2382b82/client/network.go:233 +0x1cb
+created by github.com/Mrs4s/MiraiGo/client.(*QQClient).netLoop
+	github.com/Mrs4s/MiraiGo@v0.0.0-20210916113136-0238b2382b82/client/network.go:220 +0x525
+ 
+[2021-11-10 18:04:42] [ERROR]: Protocol -> panic on decoder OnlinePush.ReqPush : EOF
+goroutine 103 [running]:
+runtime/debug.Stack()
+	runtime/debug/stack.go:24 +0x65
+github.com/Mrs4s/MiraiGo/client.(*QQClient).netLoop.func1.1()
+	github.com/Mrs4s/MiraiGo@v0.0.0-20210916113136-0238b2382b82/client/network.go:223 +0x5d
+panic({0x8c6780, 0xc000064050})
+	runtime/panic.go:1038 +0x215
+github.com/Mrs4s/MiraiGo/binary/jce.(*JceReader).readBytes(...)
+	github.com/Mrs4s/MiraiGo@v0.0.0-20210916113136-0238b2382b82/binary/jce/reader.go:96
+github.com/Mrs4s/MiraiGo/binary/jce.(*JceReader).ReadBytes(0xc0006d9d58, 0xc000494540)
+	github.com/Mrs4s/MiraiGo@v0.0.0-20210916113136-0238b2382b82/binary/jce/reader.go:297 +0x18e
+github.com/Mrs4s/MiraiGo/client.decodeOnlinePushReqPacket(0xc000398000, 0xc00038a4c0, {0xc0006ca300, 0x16f, 0x16f})
+	github.com/Mrs4s/MiraiGo@v0.0.0-20210916113136-0238b2382b82/client/online_push.go:116 +0x9ae
+github.com/Mrs4s/MiraiGo/client.(*QQClient).netLoop.func1(0xc0004882d0)
+	github.com/Mrs4s/MiraiGo@v0.0.0-20210916113136-0238b2382b82/client/network.go:233 +0x1cb
+created by github.com/Mrs4s/MiraiGo/client.(*QQClient).netLoop
+	github.com/Mrs4s/MiraiGo@v0.0.0-20210916113136-0238b2382b82/client/network.go:220 +0x525
+ 
+[2021-11-10 20:02:31] [ERROR]: Protocol -> unexpected disconnect: read tcp 172.19.79.84:57809->60.29.242.161:443: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-10 20:02:52] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 60.29.237.214:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-10 20:02:52] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 60.29.237.214:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-10 20:02:52] [WARNING]: Bot已离线: connection dropped by server. 
+[2021-11-10 20:02:56] [WARNING]: 尝试重连... 
+[2021-11-10 20:03:01] [ERROR]: Protocol -> unexpected disconnect: unexpected EOF 
+[2021-11-10 20:03:01] [ERROR]: Protocol -> parse incoming packet error: invalid payload 
+[2021-11-10 20:03:14] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-11-10 20:10:00] [WARNING]: 获取信息时出现错误: leveldb: not found id: -1654965380 
+[2021-11-10 20:19:39] [WARNING]: 获取信息时出现错误: leveldb: not found id: -1654965380 
+[2021-11-10 20:24:01] [WARNING]: 获取信息时出现错误: leveldb: not found id: -1969520113 
+[2021-11-10 20:32:17] [WARNING]: 监听反向WS API时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2021-11-10 20:32:21] [WARNING]: 向WS服务器 127.0.0.1:8081 推送Event时出现错误: write tcp 127.0.0.1:57818->127.0.0.1:8081: use of closed network connection 
+[2021-11-10 20:32:26] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8081/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8081: connectex: No connection could be made because the target machine actively refused it. 
+[2021-11-10 20:35:43] [WARNING]: 监听反向WS API时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2021-11-10 20:35:46] [WARNING]: 向WS服务器 127.0.0.1:8081 推送Event时出现错误: write tcp 127.0.0.1:52055->127.0.0.1:8081: use of closed network connection 
+[2021-11-10 20:42:28] [WARNING]: 监听反向WS API时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2021-11-10 20:42:31] [WARNING]: 向WS服务器 127.0.0.1:8081 推送Event时出现错误: write tcp 127.0.0.1:52368->127.0.0.1:8081: use of closed network connection 
+[2021-11-10 20:43:14] [WARNING]: 监听反向WS API时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2021-11-10 20:43:21] [WARNING]: 向WS服务器 127.0.0.1:8081 推送Event时出现错误: write tcp 127.0.0.1:52723->127.0.0.1:8081: use of closed network connection 
+[2021-11-10 20:52:25] [WARNING]: 监听反向WS API时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2021-11-10 20:52:31] [WARNING]: 向WS服务器 127.0.0.1:8081 推送Event时出现错误: write tcp 127.0.0.1:52769->127.0.0.1:8081: use of closed network connection 
+[2021-11-10 20:53:33] [WARNING]: 监听反向WS API时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2021-11-10 20:53:36] [WARNING]: 向WS服务器 127.0.0.1:8081 推送Event时出现错误: write tcp 127.0.0.1:64099->127.0.0.1:8081: use of closed network connection 
+[2021-11-10 20:55:19] [WARNING]: 监听反向WS API时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2021-11-10 20:55:26] [WARNING]: 向WS服务器 127.0.0.1:8081 推送Event时出现错误: write tcp 127.0.0.1:64157->127.0.0.1:8081: use of closed network connection 
+[2021-11-10 20:56:39] [WARNING]: 监听反向WS API时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2021-11-10 20:56:46] [WARNING]: 向WS服务器 127.0.0.1:8081 推送Event时出现错误: write tcp 127.0.0.1:64246->127.0.0.1:8081: use of closed network connection 
+[2021-11-10 20:58:07] [WARNING]: 监听反向WS API时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2021-11-10 20:58:11] [WARNING]: 向WS服务器 127.0.0.1:8081 推送Event时出现错误: write tcp 127.0.0.1:64319->127.0.0.1:8081: use of closed network connection 
+[2021-11-10 20:58:43] [WARNING]: 监听反向WS API时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2021-11-10 20:58:46] [WARNING]: 向WS服务器 127.0.0.1:8081 推送Event时出现错误: write tcp 127.0.0.1:64389->127.0.0.1:8081: use of closed network connection 
+[2021-11-10 21:00:45] [WARNING]: 监听反向WS API时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2021-11-10 21:00:51] [WARNING]: 向WS服务器 127.0.0.1:8081 推送Event时出现错误: write tcp 127.0.0.1:64442->127.0.0.1:8081: use of closed network connection 
+[2021-11-10 21:01:02] [WARNING]: 监听反向WS API时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2021-11-10 21:01:06] [WARNING]: 向WS服务器 127.0.0.1:8081 推送Event时出现错误: write tcp 127.0.0.1:64537->127.0.0.1:8081: use of closed network connection 
+[2021-11-10 21:01:32] [WARNING]: 监听反向WS API时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2021-11-10 21:01:36] [WARNING]: 向WS服务器 127.0.0.1:8081 推送Event时出现错误: write tcp 127.0.0.1:64555->127.0.0.1:8081: use of closed network connection 
+[2021-11-10 21:04:11] [WARNING]: 监听反向WS API时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2021-11-10 21:04:16] [WARNING]: 向WS服务器 127.0.0.1:8081 推送Event时出现错误: write tcp 127.0.0.1:64585->127.0.0.1:8081: use of closed network connection 
+[2021-11-10 21:05:49] [WARNING]: 监听反向WS API时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2021-11-10 21:05:56] [WARNING]: 向WS服务器 127.0.0.1:8081 推送Event时出现错误: write tcp 127.0.0.1:64754->127.0.0.1:8081: use of closed network connection 
+[2021-11-10 21:06:17] [WARNING]: 监听反向WS API时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2021-11-10 21:06:21] [WARNING]: 向WS服务器 127.0.0.1:8081 推送Event时出现错误: write tcp 127.0.0.1:64846->127.0.0.1:8081: use of closed network connection 
+[2021-11-10 21:17:35] [WARNING]: 监听反向WS API时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2021-11-10 21:17:41] [WARNING]: 向WS服务器 127.0.0.1:8081 推送Event时出现错误: write tcp 127.0.0.1:64871->127.0.0.1:8081: use of closed network connection 
+[2021-11-10 21:19:05] [WARNING]: 监听反向WS API时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2021-11-10 21:19:11] [WARNING]: 向WS服务器 127.0.0.1:8081 推送Event时出现错误: write tcp 127.0.0.1:65384->127.0.0.1:8081: use of closed network connection 
+[2021-11-10 21:21:24] [WARNING]: 监听反向WS API时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2021-11-10 21:21:31] [WARNING]: 向WS服务器 127.0.0.1:8081 推送Event时出现错误: write tcp 127.0.0.1:65526->127.0.0.1:8081: use of closed network connection 
+[2021-11-10 21:22:42] [WARNING]: 监听反向WS API时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2021-11-10 21:22:46] [WARNING]: 向WS服务器 127.0.0.1:8081 推送Event时出现错误: write tcp 127.0.0.1:49416->127.0.0.1:8081: use of closed network connection 

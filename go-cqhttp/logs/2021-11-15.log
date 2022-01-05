@@ -1,0 +1,36 @@
+[2021-11-15 11:12:11] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-11-15 12:30:11] [ERROR]: Protocol -> parse incoming packet error: invalid payload 
+[2021-11-15 12:30:11] [ERROR]: Protocol -> unexpected disconnect: unexpected EOF 
+[2021-11-15 12:30:12] [ERROR]: Protocol -> parse incoming packet error: invalid payload 
+[2021-11-15 12:30:12] [ERROR]: Protocol -> unexpected disconnect: unexpected EOF 
+[2021-11-15 12:30:13] [ERROR]: Protocol -> parse incoming packet error: invalid payload 
+[2021-11-15 12:30:13] [ERROR]: Protocol -> unexpected disconnect: unexpected EOF 
+[2021-11-15 12:30:34] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 114.221.148.49:14000: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-15 12:30:34] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 114.221.148.49:14000: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-15 12:30:34] [WARNING]: Bot已离线: quick reconnect failed 
+[2021-11-15 12:30:38] [WARNING]: 尝试重连... 
+[2021-11-15 12:30:40] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-11-15 12:30:41] [ERROR]: Protocol -> register client failed: Packet timed out 
+[2021-11-15 12:30:41] [WARNING]: Bot已离线: register error 
+[2021-11-15 12:30:41] [ERROR]: Protocol -> unexpected disconnect: read tcp 172.19.79.84:65180->120.232.18.41:443: use of closed network connection 
+[2021-11-15 12:30:42] [ERROR]: Protocol -> register client failed: Packet timed out 
+[2021-11-15 12:30:42] [ERROR]: Protocol -> unexpected disconnect: read tcp 172.19.79.84:65182->157.148.54.41:80: use of closed network connection 
+[2021-11-15 12:30:43] [ERROR]: Protocol -> register client failed: Packet timed out 
+[2021-11-15 12:30:43] [ERROR]: Protocol -> unexpected disconnect: read tcp 172.19.79.84:65183->157.255.13.60:8080: use of closed network connection 
+[2021-11-15 13:30:17] [ERROR]: Protocol -> parse incoming packet error: invalid payload 
+[2021-11-15 13:30:17] [ERROR]: Protocol -> unexpected disconnect: unexpected EOF 
+[2021-11-15 13:30:19] [ERROR]: Protocol -> parse incoming packet error: invalid payload 
+[2021-11-15 13:30:19] [ERROR]: Protocol -> unexpected disconnect: unexpected EOF 
+[2021-11-15 13:30:20] [ERROR]: Protocol -> parse incoming packet error: invalid payload 
+[2021-11-15 13:30:20] [ERROR]: Protocol -> unexpected disconnect: unexpected EOF 
+[2021-11-15 13:30:41] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 60.29.237.176:14000: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-15 13:30:41] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 60.29.237.176:14000: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-15 13:30:41] [WARNING]: Bot已离线: connection dropped by server. 
+[2021-11-15 13:30:41] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 60.29.237.176:14000: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-15 13:30:41] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 60.29.237.176:14000: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-15 13:30:45] [WARNING]: 尝试重连... 
+[2021-11-15 13:30:47] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-11-15 13:30:47] [ERROR]: Protocol -> register client failed: Packet timed out 
+[2021-11-15 13:30:47] [ERROR]: Protocol -> unexpected disconnect: read tcp 172.19.79.84:55690->113.96.13.95:8080: use of closed network connection 
+[2021-11-15 13:30:49] [ERROR]: Protocol -> register client failed: Packet timed out 
+[2021-11-15 13:30:49] [ERROR]: Protocol -> unexpected disconnect: read tcp 172.19.79.84:55719->42.81.192.181:80: use of closed network connection 

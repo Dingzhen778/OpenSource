@@ -1,0 +1,85 @@
+[2021-11-07 20:04:11] [WARNING]: 虚拟设备信息不存在, 将自动生成随机设备. 
+[2021-11-07 20:04:18] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-11-07 20:04:22] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8081/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8081: connectex: No connection could be made because the target machine actively refused it. 
+[2021-11-07 20:04:27] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8081/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8081: connectex: No connection could be made because the target machine actively refused it. 
+[2021-11-07 20:04:32] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8081/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8081: connectex: No connection could be made because the target machine actively refused it. 
+[2021-11-07 20:04:37] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8081/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8081: connectex: No connection could be made because the target machine actively refused it. 
+[2021-11-07 20:04:42] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8081/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8081: connectex: No connection could be made because the target machine actively refused it. 
+[2021-11-07 20:04:47] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8081/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8081: connectex: No connection could be made because the target machine actively refused it. 
+[2021-11-07 20:04:52] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8081/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8081: connectex: No connection could be made because the target machine actively refused it. 
+[2021-11-07 20:04:57] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8081/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8081: connectex: No connection could be made because the target machine actively refused it. 
+[2021-11-07 20:05:02] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8081/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8081: connectex: No connection could be made because the target machine actively refused it. 
+[2021-11-07 20:05:07] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8081/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8081: connectex: No connection could be made because the target machine actively refused it. 
+[2021-11-07 20:05:12] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8081/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8081: connectex: No connection could be made because the target machine actively refused it. 
+[2021-11-07 20:05:17] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8081/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8081: connectex: No connection could be made because the target machine actively refused it. 
+[2021-11-07 20:05:22] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8081/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8081: connectex: No connection could be made because the target machine actively refused it. 
+[2021-11-07 20:05:27] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8081/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8081: connectex: No connection could be made because the target machine actively refused it. 
+[2021-11-07 20:06:02] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-11-07 20:13:52] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-11-07 20:13:53] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-11-07 20:43:34] [ERROR]: Protocol -> panic on decoder OnlinePush.ReqPush : EOF
+goroutine 1748 [running]:
+runtime/debug.Stack()
+	runtime/debug/stack.go:24 +0x65
+github.com/Mrs4s/MiraiGo/client.(*QQClient).netLoop.func1.1()
+	github.com/Mrs4s/MiraiGo@v0.0.0-20210916113136-0238b2382b82/client/network.go:223 +0x5d
+panic({0x1076780, 0xc000088040})
+	runtime/panic.go:1038 +0x215
+github.com/Mrs4s/MiraiGo/binary/jce.(*JceReader).readBytes(...)
+	github.com/Mrs4s/MiraiGo@v0.0.0-20210916113136-0238b2382b82/binary/jce/reader.go:96
+github.com/Mrs4s/MiraiGo/binary/jce.(*JceReader).ReadBytes(0xc00007dd58, 0xc0003fc710)
+	github.com/Mrs4s/MiraiGo@v0.0.0-20210916113136-0238b2382b82/binary/jce/reader.go:297 +0x18e
+github.com/Mrs4s/MiraiGo/client.decodeOnlinePushReqPacket(0xc00022bb00, 0xc000066720, {0xc000678000, 0x16d, 0x16d})
+	github.com/Mrs4s/MiraiGo@v0.0.0-20210916113136-0238b2382b82/client/online_push.go:116 +0x9ae
+github.com/Mrs4s/MiraiGo/client.(*QQClient).netLoop.func1(0xc0003a5360)
+	github.com/Mrs4s/MiraiGo@v0.0.0-20210916113136-0238b2382b82/client/network.go:233 +0x1cb
+created by github.com/Mrs4s/MiraiGo/client.(*QQClient).netLoop
+	github.com/Mrs4s/MiraiGo@v0.0.0-20210916113136-0238b2382b82/client/network.go:220 +0x525
+ 
+[2021-11-07 20:43:35] [ERROR]: Protocol -> panic on decoder OnlinePush.ReqPush : EOF
+goroutine 1750 [running]:
+runtime/debug.Stack()
+	runtime/debug/stack.go:24 +0x65
+github.com/Mrs4s/MiraiGo/client.(*QQClient).netLoop.func1.1()
+	github.com/Mrs4s/MiraiGo@v0.0.0-20210916113136-0238b2382b82/client/network.go:223 +0x5d
+panic({0x1076780, 0xc000088040})
+	runtime/panic.go:1038 +0x215
+github.com/Mrs4s/MiraiGo/binary/jce.(*JceReader).readBytes(...)
+	github.com/Mrs4s/MiraiGo@v0.0.0-20210916113136-0238b2382b82/binary/jce/reader.go:96
+github.com/Mrs4s/MiraiGo/binary/jce.(*JceReader).ReadBytes(0xc00007dd58, 0xc0003fcca0)
+	github.com/Mrs4s/MiraiGo@v0.0.0-20210916113136-0238b2382b82/binary/jce/reader.go:297 +0x18e
+github.com/Mrs4s/MiraiGo/client.decodeOnlinePushReqPacket(0xc00022bb00, 0xc0000669c0, {0xc000678300, 0x16f, 0x16f})
+	github.com/Mrs4s/MiraiGo@v0.0.0-20210916113136-0238b2382b82/client/online_push.go:116 +0x9ae
+github.com/Mrs4s/MiraiGo/client.(*QQClient).netLoop.func1(0xc00050fa40)
+	github.com/Mrs4s/MiraiGo@v0.0.0-20210916113136-0238b2382b82/client/network.go:233 +0x1cb
+created by github.com/Mrs4s/MiraiGo/client.(*QQClient).netLoop
+	github.com/Mrs4s/MiraiGo@v0.0.0-20210916113136-0238b2382b82/client/network.go:220 +0x525
+ 
+[2021-11-07 20:43:35] [ERROR]: Protocol -> panic on decoder OnlinePush.ReqPush : EOF
+goroutine 1752 [running]:
+runtime/debug.Stack()
+	runtime/debug/stack.go:24 +0x65
+github.com/Mrs4s/MiraiGo/client.(*QQClient).netLoop.func1.1()
+	github.com/Mrs4s/MiraiGo@v0.0.0-20210916113136-0238b2382b82/client/network.go:223 +0x5d
+panic({0x1076780, 0xc000088040})
+	runtime/panic.go:1038 +0x215
+github.com/Mrs4s/MiraiGo/binary/jce.(*JceReader).readBytes(...)
+	github.com/Mrs4s/MiraiGo@v0.0.0-20210916113136-0238b2382b82/binary/jce/reader.go:96
+github.com/Mrs4s/MiraiGo/binary/jce.(*JceReader).ReadBytes(0xc0003d7d58, 0xc0003fd258)
+	github.com/Mrs4s/MiraiGo@v0.0.0-20210916113136-0238b2382b82/binary/jce/reader.go:297 +0x18e
+github.com/Mrs4s/MiraiGo/client.decodeOnlinePushReqPacket(0xc00022bb00, 0xc00061c6e0, {0xc000678780, 0x16f, 0x16f})
+	github.com/Mrs4s/MiraiGo@v0.0.0-20210916113136-0238b2382b82/client/online_push.go:116 +0x9ae
+github.com/Mrs4s/MiraiGo/client.(*QQClient).netLoop.func1(0xc00050fc20)
+	github.com/Mrs4s/MiraiGo@v0.0.0-20210916113136-0238b2382b82/client/network.go:233 +0x1cb
+created by github.com/Mrs4s/MiraiGo/client.(*QQClient).netLoop
+	github.com/Mrs4s/MiraiGo@v0.0.0-20210916113136-0238b2382b82/client/network.go:220 +0x525
+ 
+[2021-11-07 21:05:05] [WARNING]: 获取信息时出现错误: leveldb: not found id: 771167936 
+[2021-11-07 21:25:40] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2021-11-07 21:26:43] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2021-11-07 21:27:06] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2021-11-07 21:28:18] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-11-07 21:29:17] [WARNING]: 群消息发送失败: 账号可能被风控. 
+[2021-11-07 21:39:03] [WARNING]: 监听反向WS API时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2021-11-07 21:39:09] [WARNING]: 向WS服务器 127.0.0.1:8081 推送Event时出现错误: write tcp 127.0.0.1:62993->127.0.0.1:8081: use of closed network connection 
+[2021-11-07 21:39:37] [WARNING]: 群消息发送失败: 账号可能被风控. 

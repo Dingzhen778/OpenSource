@@ -1,0 +1,34 @@
+[2021-12-10 14:45:03] [ERROR]: Protocol -> decrypt payload error: unknown flag 
+[2021-12-10 14:45:18] [ERROR]: Protocol -> decrypt payload error: unknown flag 
+[2021-12-10 14:45:33] [WARNING]: 恢复会话失败: Packet timed out , 尝试使用正常流程登录. 
+[2021-12-10 14:47:16] [ERROR]: Protocol -> decrypt payload error: unknown flag 
+[2021-12-10 14:47:31] [ERROR]: Protocol -> decrypt payload error: unknown flag 
+[2021-12-10 14:47:46] [FATAL]: 登录时发生致命错误: Packet timed out 
+[2021-12-10 14:47:46] [ERROR]: Protocol -> unexpected disconnect: read tcp 172.19.79.84:52650->157.255.13.246:8080: use of closed network connection 
+[2021-12-10 14:50:51] [WARNING]: 是否更新(y/N):  
+[2021-12-10 14:54:47] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2021-12-10 14:54:50] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:54755->127.0.0.1:8081: use of closed network connection 
+[2021-12-10 14:54:55] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8081/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8081: connectex: No connection could be made because the target machine actively refused it. 
+[2021-12-10 14:55:00] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8081/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8081: connectex: No connection could be made because the target machine actively refused it. 
+[2021-12-10 14:55:05] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8081/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8081: connectex: No connection could be made because the target machine actively refused it. 
+[2021-12-10 14:55:10] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8081/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8081: connectex: No connection could be made because the target machine actively refused it. 
+[2021-12-10 14:55:15] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8081/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8081: connectex: No connection could be made because the target machine actively refused it. 
+[2021-12-10 14:55:20] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8081/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8081: connectex: No connection could be made because the target machine actively refused it. 
+[2021-12-10 14:55:25] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8081/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8081: connectex: No connection could be made because the target machine actively refused it. 
+[2021-12-10 14:55:30] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8081/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8081: connectex: No connection could be made because the target machine actively refused it. 
+[2021-12-10 14:55:36] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8081/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8081: connectex: No connection could be made because the target machine actively refused it. 
+[2021-12-10 14:55:41] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8081/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8081: connectex: No connection could be made because the target machine actively refused it. 
+[2021-12-10 14:55:46] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8081/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8081: connectex: No connection could be made because the target machine actively refused it. 
+[2021-12-10 14:55:51] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8081/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8081: connectex: No connection could be made because the target machine actively refused it. 
+[2021-12-10 14:55:56] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8081/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8081: connectex: No connection could be made because the target machine actively refused it. 
+[2021-12-10 14:56:01] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8081/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8081: connectex: No connection could be made because the target machine actively refused it. 
+[2021-12-10 14:56:06] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8081/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8081: connectex: No connection could be made because the target machine actively refused it. 
+[2021-12-10 14:56:11] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8081/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8081: connectex: No connection could be made because the target machine actively refused it. 
+[2021-12-10 14:56:16] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8081/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8081: connectex: No connection could be made because the target machine actively refused it. 
+[2021-12-10 14:56:21] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8081/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8081: connectex: No connection could be made because the target machine actively refused it. 
+[2021-12-10 15:38:27] [WARNING]: 监听反向WS Universal时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2021-12-10 15:38:09] [WARNING]: Bot已离线: 你的帐号于15:39在另一台iPad平板登录。如非本人操作，则密码可能已泄露，建议前往http://aq.qq.com/修改密码或紧急冻结帐号。 
+[2021-12-10 15:38:35] [WARNING]: 向反向WS Universal服务器推送 Event 时出现错误: write tcp 127.0.0.1:55062->127.0.0.1:8081: wsasend: An established connection was aborted by the software in your host machine. 
+[2021-12-10 15:39:59] [WARNING]: 尝试重连... 
+[2021-12-10 15:39:59] [WARNING]: 快速重连失败: token failed 
+[2021-12-10 15:42:01] [WARNING]: 恢复会话失败: token failed , 尝试使用正常流程登录. 

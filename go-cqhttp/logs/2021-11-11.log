@@ -1,0 +1,299 @@
+[2021-11-11 01:09:08] [ERROR]: Protocol -> parse incoming packet error: invalid payload 
+[2021-11-11 01:09:08] [ERROR]: Protocol -> unexpected disconnect: unexpected EOF 
+[2021-11-11 18:25:38] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 114.222.112.229:14000: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-11 18:25:40] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 114.222.112.229:14000: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-11 18:25:40] [WARNING]: Bot已离线: connection dropped by server. 
+[2021-11-11 18:25:44] [WARNING]: 尝试重连... 
+[2021-11-11 18:26:06] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 120.232.69.217:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-11 18:26:06] [WARNING]: 快速重连失败: dial tcp error: dial tcp 120.232.69.217:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-11 18:26:06] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2021-11-11 18:26:08] [ERROR]: Protocol -> parse incoming packet error: invalid payload 
+[2021-11-11 18:26:08] [ERROR]: Protocol -> unexpected disconnect: unexpected EOF 
+[2021-11-11 18:26:08] [ERROR]: Protocol -> unexpected disconnect: unexpected EOF 
+[2021-11-11 18:26:08] [ERROR]: Protocol -> parse incoming packet error: invalid payload 
+[2021-11-11 18:26:29] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 60.29.237.214:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-11 18:26:29] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 60.29.237.214:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-11 18:26:29] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 60.29.237.214:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-11 18:26:29] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 60.29.237.214:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-11 18:26:37] [ERROR]: 登录时发生致命错误: Packet timed out 
+[2021-11-11 18:26:38] [ERROR]: Protocol -> register client failed: Packet timed out 
+[2021-11-11 18:26:38] [WARNING]: 尝试重连... 
+[2021-11-11 18:26:38] [ERROR]: Protocol -> parse incoming packet error: invalid payload 
+[2021-11-11 18:26:38] [ERROR]: Protocol -> unexpected disconnect: unexpected EOF 
+[2021-11-11 18:26:59] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 101.91.42.98:14000: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-11 18:26:59] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 101.91.42.98:14000: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-11 18:26:59] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 101.91.42.98:14000: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-11 18:26:59] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 101.91.42.98:14000: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-11 18:27:08] [WARNING]: 快速重连失败: Packet timed out 
+[2021-11-11 18:27:08] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2021-11-11 18:27:09] [ERROR]: Protocol -> parse incoming packet error: invalid payload 
+[2021-11-11 18:27:09] [ERROR]: Protocol -> unexpected disconnect: unexpected EOF 
+[2021-11-11 18:27:30] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 60.29.242.161:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-11 18:27:30] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 60.29.242.161:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-11 18:27:31] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 60.29.242.161:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-11 18:27:31] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 60.29.242.161:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-11 18:27:39] [ERROR]: 登录时发生致命错误: Packet timed out 
+[2021-11-11 18:27:40] [WARNING]: 尝试重连... 
+[2021-11-11 18:27:40] [ERROR]: Protocol -> parse incoming packet error: invalid payload 
+[2021-11-11 18:27:40] [ERROR]: Protocol -> unexpected disconnect: unexpected EOF 
+[2021-11-11 18:27:41] [ERROR]: Protocol -> parse incoming packet error: invalid payload 
+[2021-11-11 18:27:41] [ERROR]: Protocol -> unexpected disconnect: unexpected EOF 
+[2021-11-11 18:28:02] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 114.221.151.164:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-11 18:28:02] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 114.221.151.164:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-11 18:28:10] [WARNING]: 快速重连失败: Packet timed out 
+[2021-11-11 18:28:10] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2021-11-11 18:28:11] [ERROR]: Protocol -> register client failed: Packet timed out 
+[2021-11-11 18:28:11] [ERROR]: Protocol -> register client failed: Packet timed out 
+[2021-11-11 18:28:11] [ERROR]: Protocol -> register client failed: Packet timed out 
+[2021-11-11 18:28:11] [ERROR]: Protocol -> parse incoming packet error: invalid payload 
+[2021-11-11 18:28:11] [ERROR]: Protocol -> unexpected disconnect: read tcp 172.19.79.84:55982->109.244.170.87:80: use of closed network connection 
+[2021-11-11 18:28:32] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 60.28.172.117:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-11 18:28:32] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 60.28.172.117:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-11 18:28:41] [ERROR]: 登录时发生致命错误: Packet timed out 
+[2021-11-11 18:28:41] [ERROR]: Protocol -> register client failed: Packet timed out 
+[2021-11-11 18:28:42] [WARNING]: 尝试重连... 
+[2021-11-11 18:28:42] [ERROR]: Protocol -> unexpected disconnect: unexpected EOF 
+[2021-11-11 18:28:42] [ERROR]: Protocol -> parse incoming packet error: invalid payload 
+[2021-11-11 18:29:04] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 114.222.112.229:14000: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-11 18:29:04] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 114.222.112.229:14000: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-11 18:29:12] [WARNING]: 快速重连失败: Packet timed out 
+[2021-11-11 18:29:12] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2021-11-11 18:29:12] [ERROR]: Protocol -> register client failed: Packet timed out 
+[2021-11-11 18:29:34] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 120.232.69.217:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-11 18:29:34] [ERROR]: 登录时发生致命错误: dial tcp error: dial tcp 120.232.69.217:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-11 18:29:35] [WARNING]: 尝试重连... 
+[2021-11-11 18:29:36] [ERROR]: Protocol -> parse incoming packet error: invalid payload 
+[2021-11-11 18:29:36] [ERROR]: Protocol -> unexpected disconnect: unexpected EOF 
+[2021-11-11 18:29:57] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 60.29.237.214:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-11 18:29:57] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 60.29.237.214:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-11 18:30:05] [WARNING]: 快速重连失败: Packet timed out 
+[2021-11-11 18:30:05] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2021-11-11 18:30:06] [ERROR]: Protocol -> register client failed: Packet timed out 
+[2021-11-11 18:30:07] [ERROR]: Protocol -> parse incoming packet error: invalid payload 
+[2021-11-11 18:30:07] [ERROR]: Protocol -> unexpected disconnect: unexpected EOF 
+[2021-11-11 18:30:28] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 101.91.42.98:14000: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-11 18:30:28] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 101.91.42.98:14000: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-11 18:30:36] [ERROR]: 登录时发生致命错误: Packet timed out 
+[2021-11-11 18:30:37] [ERROR]: Protocol -> register client failed: Packet timed out 
+[2021-11-11 18:30:37] [WARNING]: 尝试重连... 
+[2021-11-11 18:30:58] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 120.232.65.165:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-11 18:30:58] [WARNING]: 快速重连失败: dial tcp error: dial tcp 120.232.65.165:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-11 18:30:58] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2021-11-11 18:30:59] [ERROR]: Protocol -> parse incoming packet error: invalid payload 
+[2021-11-11 18:30:59] [ERROR]: Protocol -> unexpected disconnect: unexpected EOF 
+[2021-11-11 18:31:20] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 60.29.242.161:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-11 18:31:20] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 60.29.242.161:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-11 18:31:21] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 60.29.242.161:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-11 18:31:21] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 60.29.242.161:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-11 18:31:29] [ERROR]: 登录时发生致命错误: Packet timed out 
+[2021-11-11 18:31:30] [WARNING]: 尝试重连... 
+[2021-11-11 18:31:31] [ERROR]: Protocol -> unexpected disconnect: unexpected EOF 
+[2021-11-11 18:31:31] [ERROR]: Protocol -> parse incoming packet error: invalid payload 
+[2021-11-11 18:31:32] [ERROR]: Protocol -> unexpected disconnect: unexpected EOF 
+[2021-11-11 18:31:32] [ERROR]: Protocol -> parse incoming packet error: invalid payload 
+[2021-11-11 18:31:53] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 114.221.151.164:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-11 18:31:53] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 114.221.151.164:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-11 18:32:00] [WARNING]: 快速重连失败: Packet timed out 
+[2021-11-11 18:32:00] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2021-11-11 18:32:01] [ERROR]: Protocol -> register client failed: Packet timed out 
+[2021-11-11 18:32:01] [ERROR]: Protocol -> register client failed: Packet timed out 
+[2021-11-11 18:32:02] [ERROR]: Protocol -> register client failed: Packet timed out 
+[2021-11-11 18:32:02] [ERROR]: Protocol -> parse incoming packet error: invalid payload 
+[2021-11-11 18:32:02] [ERROR]: Protocol -> unexpected disconnect: unexpected EOF 
+[2021-11-11 18:32:17] [ERROR]: Protocol -> parse incoming packet error: return code unsuccessful: 30860348 
+[2021-11-11 18:32:17] [ERROR]: Protocol -> parse incoming packet error: return code unsuccessful: 1786651948 
+[2021-11-11 18:32:18] [ERROR]: Protocol -> parse incoming packet error: packet dropped 
+[2021-11-11 18:32:32] [ERROR]: Protocol -> register client failed: Packet timed out 
+[2021-11-11 18:33:36] [ERROR]: Protocol -> unknown group msg: 0 
+[2021-11-11 19:05:10] [WARNING]: 获取信息时出现错误: leveldb: not found id: -767779352 
+[2021-11-11 19:23:19] [WARNING]: 监听反向WS API时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2021-11-11 19:23:23] [WARNING]: 向WS服务器 127.0.0.1:8081 推送Event时出现错误: write tcp 127.0.0.1:56678->127.0.0.1:8081: use of closed network connection 
+[2021-11-11 19:23:28] [WARNING]: 连接到反向WebSocket Universal服务器 ws://127.0.0.1:8081/cqhttp/ws 时出现错误: dial tcp 127.0.0.1:8081: connectex: No connection could be made because the target machine actively refused it. 
+[2021-11-11 19:31:04] [WARNING]: 监听反向WS API时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2021-11-11 19:31:08] [WARNING]: 向WS服务器 127.0.0.1:8081 推送Event时出现错误: write tcp 127.0.0.1:61955->127.0.0.1:8081: use of closed network connection 
+[2021-11-11 19:31:57] [WARNING]: 监听反向WS API时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2021-11-11 19:32:03] [WARNING]: 向WS服务器 127.0.0.1:8081 推送Event时出现错误: write tcp 127.0.0.1:62359->127.0.0.1:8081: use of closed network connection 
+[2021-11-11 19:35:39] [WARNING]: 监听反向WS API时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2021-11-11 19:35:43] [WARNING]: 向WS服务器 127.0.0.1:8081 推送Event时出现错误: write tcp 127.0.0.1:62413->127.0.0.1:8081: use of closed network connection 
+[2021-11-11 19:36:44] [WARNING]: 监听反向WS API时出现错误: websocket: close 1006 (abnormal closure): unexpected EOF 
+[2021-11-11 19:36:48] [WARNING]: 向WS服务器 127.0.0.1:8081 推送Event时出现错误: write tcp 127.0.0.1:51337->127.0.0.1:8081: use of closed network connection 
+[2021-11-11 22:23:01] [ERROR]: Protocol -> unexpected disconnect: read tcp 172.19.79.84:56675->60.29.237.214:443: wsarecv: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-11 22:23:22] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 180.163.212.180:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-11 22:23:22] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 180.163.212.180:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-11 22:23:22] [WARNING]: Bot已离线: connection dropped by server. 
+[2021-11-11 22:23:26] [WARNING]: 尝试重连... 
+[2021-11-11 22:23:27] [ERROR]: Protocol -> unexpected disconnect: unexpected EOF 
+[2021-11-11 22:23:27] [ERROR]: Protocol -> parse incoming packet error: invalid payload 
+[2021-11-11 22:23:48] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.176.211:14000: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-11 22:23:48] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.176.211:14000: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-11 22:23:56] [WARNING]: 快速重连失败: Packet timed out 
+[2021-11-11 22:23:56] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2021-11-11 22:23:58] [ERROR]: Protocol -> parse incoming packet error: invalid payload 
+[2021-11-11 22:23:58] [ERROR]: Protocol -> unexpected disconnect: unexpected EOF 
+[2021-11-11 22:24:19] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 153.3.149.28:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-11 22:24:19] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 153.3.149.28:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-11 22:24:27] [ERROR]: 登录时发生致命错误: Packet timed out 
+[2021-11-11 22:24:28] [WARNING]: 尝试重连... 
+[2021-11-11 22:24:29] [ERROR]: Protocol -> unexpected disconnect: unexpected EOF 
+[2021-11-11 22:24:29] [ERROR]: Protocol -> parse incoming packet error: invalid payload 
+[2021-11-11 22:24:50] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 60.29.237.214:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-11 22:24:50] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 60.29.237.214:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-11 22:24:58] [WARNING]: 快速重连失败: Packet timed out 
+[2021-11-11 22:24:58] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2021-11-11 22:24:59] [ERROR]: Protocol -> register client failed: Packet timed out 
+[2021-11-11 22:25:20] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 180.163.212.180:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-11 22:25:20] [ERROR]: 登录时发生致命错误: dial tcp error: dial tcp 180.163.212.180:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-11 22:25:21] [WARNING]: 尝试重连... 
+[2021-11-11 22:25:22] [ERROR]: Protocol -> parse incoming packet error: invalid payload 
+[2021-11-11 22:25:22] [ERROR]: Protocol -> unexpected disconnect: unexpected EOF 
+[2021-11-11 22:25:43] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.176.211:14000: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-11 22:25:43] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.176.211:14000: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-11 22:25:43] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.176.211:14000: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-11 22:25:43] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.176.211:14000: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-11 22:25:51] [WARNING]: 快速重连失败: Packet timed out 
+[2021-11-11 22:25:51] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2021-11-11 22:26:13] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 153.3.149.28:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-11 22:26:13] [ERROR]: 登录时发生致命错误: dial tcp error: dial tcp 153.3.149.28:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-11 22:26:14] [WARNING]: 尝试重连... 
+[2021-11-11 22:26:15] [ERROR]: Protocol -> parse incoming packet error: invalid payload 
+[2021-11-11 22:26:15] [ERROR]: Protocol -> unexpected disconnect: unexpected EOF 
+[2021-11-11 22:26:36] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 60.29.237.214:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-11 22:26:36] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 60.29.237.214:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-11 22:26:44] [WARNING]: 快速重连失败: Packet timed out 
+[2021-11-11 22:26:44] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2021-11-11 22:26:45] [ERROR]: Protocol -> register client failed: Packet timed out 
+[2021-11-11 22:27:06] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 180.163.212.180:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-11 22:27:06] [ERROR]: 登录时发生致命错误: dial tcp error: dial tcp 180.163.212.180:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-11 22:27:08] [WARNING]: 尝试重连... 
+[2021-11-11 22:27:08] [ERROR]: Protocol -> parse incoming packet error: invalid payload 
+[2021-11-11 22:27:08] [ERROR]: Protocol -> unexpected disconnect: unexpected EOF 
+[2021-11-11 22:27:29] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.176.211:14000: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-11 22:27:29] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.176.211:14000: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-11 22:27:29] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.176.211:14000: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-11 22:27:29] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.176.211:14000: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-11 22:27:38] [WARNING]: 快速重连失败: Packet timed out 
+[2021-11-11 22:27:38] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2021-11-11 22:28:00] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 153.3.149.28:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-11 22:28:00] [ERROR]: 登录时发生致命错误: dial tcp error: dial tcp 153.3.149.28:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-11 22:28:01] [WARNING]: 尝试重连... 
+[2021-11-11 22:28:01] [ERROR]: Protocol -> parse incoming packet error: invalid payload 
+[2021-11-11 22:28:01] [ERROR]: Protocol -> unexpected disconnect: unexpected EOF 
+[2021-11-11 22:28:23] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 60.29.237.214:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-11 22:28:23] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 60.29.237.214:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-11 22:28:31] [WARNING]: 快速重连失败: Packet timed out 
+[2021-11-11 22:28:31] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2021-11-11 22:28:31] [ERROR]: Protocol -> register client failed: Packet timed out 
+[2021-11-11 22:28:53] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 180.163.212.180:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-11 22:28:53] [ERROR]: 登录时发生致命错误: dial tcp error: dial tcp 180.163.212.180:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-11 22:28:54] [WARNING]: 尝试重连... 
+[2021-11-11 22:28:54] [ERROR]: Protocol -> parse incoming packet error: invalid payload 
+[2021-11-11 22:28:54] [ERROR]: Protocol -> unexpected disconnect: unexpected EOF 
+[2021-11-11 22:29:15] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.176.211:14000: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-11 22:29:15] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.176.211:14000: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-11 22:29:15] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.176.211:14000: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-11 22:29:15] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.176.211:14000: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-11 22:29:24] [WARNING]: 快速重连失败: Packet timed out 
+[2021-11-11 22:29:24] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2021-11-11 22:29:46] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 153.3.149.28:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-11 22:29:46] [ERROR]: 登录时发生致命错误: dial tcp error: dial tcp 153.3.149.28:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-11 22:29:47] [WARNING]: 尝试重连... 
+[2021-11-11 22:29:47] [ERROR]: Protocol -> parse incoming packet error: invalid payload 
+[2021-11-11 22:29:47] [ERROR]: Protocol -> unexpected disconnect: unexpected EOF 
+[2021-11-11 22:30:09] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 60.29.237.214:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-11 22:30:09] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 60.29.237.214:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-11 22:30:17] [WARNING]: 快速重连失败: Packet timed out 
+[2021-11-11 22:30:17] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2021-11-11 22:30:17] [ERROR]: Protocol -> register client failed: Packet timed out 
+[2021-11-11 22:30:39] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 180.163.212.180:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-11 22:30:39] [ERROR]: 登录时发生致命错误: dial tcp error: dial tcp 180.163.212.180:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-11 22:30:40] [WARNING]: 尝试重连... 
+[2021-11-11 22:30:41] [ERROR]: Protocol -> unexpected disconnect: unexpected EOF 
+[2021-11-11 22:30:41] [ERROR]: Protocol -> parse incoming packet error: invalid payload 
+[2021-11-11 22:31:02] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.176.211:14000: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-11 22:31:02] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.176.211:14000: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-11 22:31:02] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.176.211:14000: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-11 22:31:02] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.176.211:14000: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-11 22:31:10] [WARNING]: 快速重连失败: Packet timed out 
+[2021-11-11 22:31:10] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2021-11-11 22:31:32] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 153.3.149.28:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-11 22:31:32] [ERROR]: 登录时发生致命错误: dial tcp error: dial tcp 153.3.149.28:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-11 22:31:33] [WARNING]: 尝试重连... 
+[2021-11-11 22:31:34] [ERROR]: Protocol -> parse incoming packet error: invalid payload 
+[2021-11-11 22:31:34] [ERROR]: Protocol -> unexpected disconnect: unexpected EOF 
+[2021-11-11 22:31:55] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 60.29.237.214:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-11 22:31:55] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 60.29.237.214:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-11 22:32:03] [WARNING]: 快速重连失败: Packet timed out 
+[2021-11-11 22:32:03] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2021-11-11 22:32:04] [ERROR]: Protocol -> register client failed: Packet timed out 
+[2021-11-11 22:32:25] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 180.163.212.180:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-11 22:32:25] [ERROR]: 登录时发生致命错误: dial tcp error: dial tcp 180.163.212.180:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-11 22:32:26] [WARNING]: 尝试重连... 
+[2021-11-11 22:32:27] [ERROR]: Protocol -> unexpected disconnect: unexpected EOF 
+[2021-11-11 22:32:27] [ERROR]: Protocol -> parse incoming packet error: invalid payload 
+[2021-11-11 22:32:48] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.176.211:14000: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-11 22:32:48] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.176.211:14000: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-11 22:32:48] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.176.211:14000: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-11 22:32:48] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.176.211:14000: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-11 22:32:56] [WARNING]: 快速重连失败: Packet timed out 
+[2021-11-11 22:32:56] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2021-11-11 22:33:18] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 153.3.149.28:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-11 22:33:18] [ERROR]: 登录时发生致命错误: dial tcp error: dial tcp 153.3.149.28:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-11 22:33:19] [WARNING]: 尝试重连... 
+[2021-11-11 22:33:20] [ERROR]: Protocol -> parse incoming packet error: invalid payload 
+[2021-11-11 22:33:20] [ERROR]: Protocol -> unexpected disconnect: unexpected EOF 
+[2021-11-11 22:33:41] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 60.29.237.214:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-11 22:33:41] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 60.29.237.214:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-11 22:33:49] [WARNING]: 快速重连失败: Packet timed out 
+[2021-11-11 22:33:49] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2021-11-11 22:33:50] [ERROR]: Protocol -> register client failed: Packet timed out 
+[2021-11-11 22:34:11] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 180.163.212.180:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-11 22:34:11] [ERROR]: 登录时发生致命错误: dial tcp error: dial tcp 180.163.212.180:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-11 22:34:12] [WARNING]: 尝试重连... 
+[2021-11-11 22:34:13] [ERROR]: Protocol -> parse incoming packet error: invalid payload 
+[2021-11-11 22:34:13] [ERROR]: Protocol -> unexpected disconnect: unexpected EOF 
+[2021-11-11 22:34:34] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.176.211:14000: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-11 22:34:34] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.176.211:14000: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-11 22:34:34] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.176.211:14000: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-11 22:34:34] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.176.211:14000: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-11 22:34:42] [WARNING]: 快速重连失败: Packet timed out 
+[2021-11-11 22:34:42] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2021-11-11 22:35:04] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 153.3.149.28:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-11 22:35:04] [ERROR]: 登录时发生致命错误: dial tcp error: dial tcp 153.3.149.28:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-11 22:35:05] [WARNING]: 尝试重连... 
+[2021-11-11 22:35:06] [ERROR]: Protocol -> parse incoming packet error: invalid payload 
+[2021-11-11 22:35:06] [ERROR]: Protocol -> unexpected disconnect: unexpected EOF 
+[2021-11-11 22:35:27] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 60.29.237.214:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-11 22:35:27] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 60.29.237.214:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-11 22:35:35] [WARNING]: 快速重连失败: Packet timed out 
+[2021-11-11 22:35:35] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2021-11-11 22:35:36] [ERROR]: Protocol -> register client failed: Packet timed out 
+[2021-11-11 22:35:58] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 180.163.212.180:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-11 22:35:58] [ERROR]: 登录时发生致命错误: dial tcp error: dial tcp 180.163.212.180:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-11 22:35:59] [WARNING]: 尝试重连... 
+[2021-11-11 22:35:59] [ERROR]: Protocol -> parse incoming packet error: invalid payload 
+[2021-11-11 22:35:59] [ERROR]: Protocol -> unexpected disconnect: unexpected EOF 
+[2021-11-11 22:36:20] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.176.211:14000: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-11 22:36:20] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.176.211:14000: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-11 22:36:20] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.176.211:14000: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-11 22:36:20] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.176.211:14000: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-11 22:36:29] [WARNING]: 快速重连失败: Packet timed out 
+[2021-11-11 22:36:29] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2021-11-11 22:36:51] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 153.3.149.28:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-11 22:36:51] [ERROR]: 登录时发生致命错误: dial tcp error: dial tcp 153.3.149.28:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-11 22:36:52] [WARNING]: 尝试重连... 
+[2021-11-11 22:36:52] [ERROR]: Protocol -> parse incoming packet error: invalid payload 
+[2021-11-11 22:36:52] [ERROR]: Protocol -> unexpected disconnect: unexpected EOF 
+[2021-11-11 22:37:14] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 60.29.237.214:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-11 22:37:14] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 60.29.237.214:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-11 22:37:22] [WARNING]: 快速重连失败: Packet timed out 
+[2021-11-11 22:37:22] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2021-11-11 22:37:22] [ERROR]: Protocol -> register client failed: Packet timed out 
+[2021-11-11 22:37:44] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 180.163.212.180:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-11 22:37:44] [ERROR]: 登录时发生致命错误: dial tcp error: dial tcp 180.163.212.180:443: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-11 22:37:45] [WARNING]: 尝试重连... 
+[2021-11-11 22:37:45] [ERROR]: Protocol -> parse incoming packet error: invalid payload 
+[2021-11-11 22:37:45] [ERROR]: Protocol -> unexpected disconnect: unexpected EOF 
+[2021-11-11 22:38:07] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.176.211:14000: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-11 22:38:07] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.176.211:14000: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-11 22:38:07] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.176.211:14000: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 
+[2021-11-11 22:38:07] [ERROR]: Protocol -> connect server error: dial tcp error: dial tcp 42.81.176.211:14000: connectex: A connection attempt failed because the connected party did not properly respond after a period of time, or established connection failed because connected host has failed to respond. 

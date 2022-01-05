@@ -1,0 +1,16 @@
+[2021-11-29 12:53:53] [WARNING]: 警告: 配置文件内的QQ号 (2863167985) 与缓存内的QQ号 (1459278150) 不相同 
+[2021-11-29 12:53:53] [WARNING]: 1. 使用会话缓存继续. 
+[2021-11-29 12:53:53] [WARNING]: 2. 删除会话缓存并重启. 
+[2021-11-29 12:53:53] [WARNING]: 请选择: (5秒后自动选1) 
+[2021-11-29 12:53:54] [ERROR]: Protocol -> unknown group message type: 12 
+[2021-11-29 12:54:02] [ERROR]: Protocol -> parse incoming packet error: session expired 
+[2021-11-29 12:54:02] [WARNING]: Bot已离线: session expired 
+[2021-11-29 12:54:06] [WARNING]: 尝试重连... 
+[2021-11-29 12:54:07] [ERROR]: Protocol -> exchange_emp error: 15 
+[2021-11-29 12:54:07] [WARNING]: 快速重连失败: exchange_emp failed 
+[2021-11-29 12:54:07] [WARNING]: 快速重连失败, 尝试普通登录. 这可能是因为其他端强行T下线导致的. 
+[2021-11-29 12:54:08] [ERROR]: Protocol -> unexpected disconnect: read tcp 172.19.79.84:64215->39.156.126.178:80: use of closed network connection 
+[2021-11-29 12:54:09] [ERROR]: Protocol -> parse incoming packet error: return code unsuccessful: -10006 
+[2021-11-29 12:54:17] [ERROR]: Protocol -> parse incoming packet error: session expired 
+[2021-11-29 12:54:32] [FATAL]: 遇到错误: Packet timed out 
+[2021-11-29 12:56:23] [ERROR]: Protocol -> unknown group msg: 0 
